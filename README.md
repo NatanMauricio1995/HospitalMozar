@@ -19,25 +19,14 @@ Este projeto foi desenvolvido como atividade acadêmica para a disciplina "Progr
 
 ### 👥 Equipe de Desenvolvimento
  - Abner Dutra Carvalho
+  - adcarvalho@faeterj-petropolis.edu.br
+ 
  - Guilherme Afonso Carvalho
+  - gafonso@faeterj-petropolis.edu.br
+
  - Gabriel Martins Ramos
-
+  - gmramos@faeterj-petropolis.edu.br
 ### 📝 Licença
-Este projeto foi desenvolvido para fins acadêmicos como parte da disciplina do Professor Mozar.
-
-#### 🤝 Contribuições
-Este é um projeto acadêmico, mas sugestões e melhorias são sempre bem-vindas!
-
-#### 📞 Contato
-- gmramos@faeterj-petropolis.edu.br
-- adcarvalho@faeterj-petropolis.edu.br
-- gafonso@faeterj-petropolis.edu.br
-
-##### Disciplina: Programação em Java
-##### Professor: Mozar
-##### Instituição: Faeterj - Petrópolis
-##### Período: 1/2025
-
 
 
 
